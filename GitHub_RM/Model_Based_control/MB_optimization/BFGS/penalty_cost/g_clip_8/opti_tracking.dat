@@ -1,0 +1,17 @@
+History of the explored points by the optimization process:
+Sequence steps: target_val
+Kp = 0.7184636995642809
+Kd = 0.3933611752793604
+Limitations of the gamma control: +/- 8
+Optimization solver: BFGS
+Cost function type: penalty
+Kp	 Kd
+1.00000	1.00000
+1.04089	0.85518
+0.94365	0.49732
+0.86532	0.42832
+0.71973	0.39062
+0.71756	0.39324
+0.71858	0.39356
+0.71859	0.39342
+0.71846	0.39336

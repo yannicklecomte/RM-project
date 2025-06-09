@@ -1,0 +1,11 @@
+================================
+Number of episodes = 1
+Domain size = 0.15, 2
+Low-Fidelity training samples = 0
+High-Fidelity training samples = 50
+BO iteration = 40
+Exploration param, xi = 0.01
+Cost function type = classical
+Re-HPO frequency = 5
+Other notes: - Training high fig set -> 1 epsiode
+================================

@@ -1,0 +1,12 @@
+================================
+Number of episodes = 4
+Low-Fidelity training samples = 200
+High-Fidelity training samples = 5
+BO iteration = 40
+Exploration param, xi = 0.01
+Re-HPO frequency = 5
+Cost function type = penalty
+Alpha_p = 0.5, Alpha_d = 1
+Domain boundaries = ([0.05, 2], [0.05, 1.5])
+For training case 3 with quadratic penalty, large bounds and fitlered error value
+================================
